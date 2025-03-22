@@ -6,6 +6,6 @@
 
 💞️ I’m looking to collaborate on open-source projects, particularly those related to AI and machine learning. I believe in the power of collaboration and open source to accelerate learning and create high-quality software.
 
-📫 How to reach me: You can reach me at my email chedi.lahmer9@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/chedi-lahmer-91a967231/
+📫 How to reach me: You can reach me at my email chedi.lahmer9@gmail.com or connect with me on LinkedIn [https://www.linkedin.com/in/chedi-lahmer-91a967231/](https://www.linkedin.com/in/chedi-lahmer/)
 
 ⚡ Fun fact: When I'm not coding or studying, you can find me immersed in a good book about development and AI!
