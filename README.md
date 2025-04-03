@@ -1,4 +1,4 @@
-👋 Hi, I’m @ChediLahmer
+👋 Hi, I’m ChediLahmer
 
 👀 I’m a 22-year-old software/AI developer and a computer science graduate. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.
 
